@@ -242,6 +242,6 @@ public class GraphTraversalPanel extends JPanel implements Runnable{
 	 * Used to deceiver which Heuristic to use for the A* Algorithm
 	 */
 	private static enum HeuristicTypes{
-		dist, halfass, zip, randombs, randomlies;
+		Distance, HalfDistance, Zip, Randombs, Randomlies;
 	}
 }
