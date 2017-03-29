@@ -17,3 +17,6 @@ Algorithms
 * **Zip returns:** 0 for all vertices
 * **Randombs:** returns an estimate of the distance from the vertex to the goal vertex muliplied by a random fraction
 * **RandomLies:** returns a random number as the estimate
+
+
+![Animated demonstration](https://github.com/maxxboehme/GraphTraversalAlgorithms/raw/master/docs/images/GraphTraversalAlgorithmsExample.gif)
