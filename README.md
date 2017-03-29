@@ -1,5 +1,6 @@
 Graph Traversal Algorithms
 ========================
+[![Build Status](https://travis-ci.org/maxxboehme/GraphTraversalAlgorithms.svg?branch=master)](https://travis-ci.org/maxxboehme/GraphTraversalAlgorithms)
 
 A GUI that shows how Dijkstra's Algorithm and the A* Algorithm look visually.
 
